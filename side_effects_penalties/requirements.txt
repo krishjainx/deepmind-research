@@ -33,7 +33,7 @@ gpg===1.13.1-unknown
 hg-evolve==10.1.0.dev0
 html5lib==1.0.1
 httplib2==0.18.1
-idna==2.9
+idna==3.7
 iniparse==0.4
 IPy==1.0
 jeepney==0.4.3
